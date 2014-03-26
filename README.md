@@ -1,6 +1,6 @@
 ey-cloud-recipes
 ===============
-This is a repository of some basic recipes for EY-Cloud using chef to deploy, setup, and configure common tools for Rails applications.
+This is a repository of some basic recipes for EY-Cloud using chef to deploy, setup, and configure common tools for Rails applications. This repository was modified to work with myne products.
 
 Installation
 ============
